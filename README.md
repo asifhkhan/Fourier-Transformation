@@ -1,5 +1,5 @@
 
-<h1 align="center">:books:Fourier-Transformation:book: :signal_strength: </h1>
+<h1 align="center">:books:Fourier-Transformation(Computer Vision):book: :signal_strength: </h1>
 
 When we work in image processing, Fourier transform is an important image processing tool which is used to decompose an image into the frequency domain. the input image of the Fourier transform is the spatial domain(x,y) equivalent. the output of the Fourier transform represents the image in the frequency domain.
 
@@ -63,7 +63,7 @@ ax4.set_title(‘frequency transform image’)
 ax4.imshow(f_solid, cmap=’gray’)
 ```
 ![stripes](images/stripe_2.png)
-<img src="https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg"  width="600" height="300">
+
 
 transform images shoe that the solid image has the most low-frequency components (low frequencies are at the center of the frequency transform image)
 
