@@ -1,5 +1,9 @@
 
+
 <h1 align="center">:books:Fourier-Transformation(Computer Vision):book: :signal_strength: </h1>
+<div id="header" align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:720/0*T3dWjqjqLM6Qj8BB.gif" height="300" width="700"/>
+</div>
 
 When we work in image processing, Fourier transform is an important image processing tool which is used to decompose an image into the frequency domain. the input image of the Fourier transform is the spatial domain(x,y) equivalent. the output of the Fourier transform represents the image in the frequency domain.
 
