@@ -1,6 +1,6 @@
 
 
-<h1 align="center">:books:Fourier-Transformation(Computer Vision):book: :signal_strength: </h1>
+<h1 color:Blue align="center">:books:Fourier-Transformation(Computer Vision):book: :signal_strength: </h1>
 <div id="header" align="center">
   <img src="https://miro.medium.com/v2/resize:fit:720/0*T3dWjqjqLM6Qj8BB.gif" height="300" width="700"/>
 </div>
