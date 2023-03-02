@@ -63,6 +63,7 @@ ax4.set_title(‘frequency transform image’)
 ax4.imshow(f_solid, cmap=’gray’)
 ```
 ![stripes](images/stripe_2.png)
+<img src="https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg"  width="600" height="300">
 
 transform images shoe that the solid image has the most low-frequency components (low frequencies are at the center of the frequency transform image)
 
