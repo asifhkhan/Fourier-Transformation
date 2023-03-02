@@ -94,4 +94,4 @@ ax2.imshow(f_image, cmap=’gray’)
 that image has components of all frequencies. in the transformed image, we can see a bright spot in the center, which tells us that a large portion of the image is low-frequency. The transformed image also tells us that there are two dominating directions for these frequencies; vertical edges are represented by a horizontal line passing through the center of the frequency transform image, and horizontal edges are represented by a vertical line passing through the center.
 
 ##  Reference:
-[link](https://medium.com/@shashimalsenarath.17/fourier-transform-computer-vision-283b997ad289#:~:text=When%20we%20work%20in%20image,(x%2Cy)%20equivalent.)
+[link to medium blog](https://medium.com/@shashimalsenarath.17/fourier-transform-computer-vision-283b997ad289#:~:text=When%20we%20work%20in%20image,(x%2Cy)%20equivalent.)
